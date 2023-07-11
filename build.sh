@@ -1,0 +1,1 @@
+docker build --build-arg AUTHORS=wangyunfei -t base-wendriver:1.0.0-SNAPSHOT .
