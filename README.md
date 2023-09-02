@@ -14,17 +14,17 @@ page_source = response.read().decode("utf-8")
 
 ## selenium
 
-### 本地安装webdriver方式【需要安装webdriver、浏览器（webdriver所支持的版本）】
+### 本地安装webdriver方式，和浏览器（注意webdriver版本与浏览器版本）
 
-1. 下载webdriver, 下载后将chromedriver【geckodriver】放到python安装路径下
+1. 下载webdriver, 下载后将chromedriver【firefox:geckodriver】放到python安装路径下
 
 firefox:https://github.com/mozilla/geckodriver/releases
+![image](https://github.com/nanonin/spider-set/assets/31438410/23266a69-07e4-43ba-bdac-60f4be18b7a5)
 
 chrome:https://registry.npmmirror.com/binary.html?path=chromedriver/
+![image](https://github.com/nanonin/spider-set/assets/31438410/051f9aa2-6881-455b-bad6-3e03b798794d)
 
 ![image](https://github.com/nanonin/spider-set/assets/31438410/7fb79c00-5681-4328-a6e9-cafe6f61e261)
-
-![image](https://github.com/nanonin/spider-set/assets/31438410/051f9aa2-6881-455b-bad6-3e03b798794d)
 
 ![image](https://github.com/nanonin/spider-set/assets/31438410/13328437-38de-4678-8964-2e10a9f8d7c7)
 
